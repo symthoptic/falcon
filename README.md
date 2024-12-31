@@ -2,7 +2,7 @@
 ![GitHub commit](https://img.shields.io/github/last-commit/OpenSourceLynix/falcon) ![GitHub Release](https://img.shields.io/github/v/release/OpenSourceLynix/falcon)
 
 
-[Vietnamese](https://github.com/OpenSourceLynix/falcon/blob/main/lang/vn.md) | [Chinese](https://github.com/OpenSourceLynix/falcon/blob/main/lang/cn.md) | [Russian](https://github.com/OpenSourceLynix/falcon/blob/main/lang/ru.md)
+[Vietnamese](https://github.com/symthptic/falcon/blob/main/lang/vn.md) | [Chinese](https://github.com/Symthoptic/falcon/blob/main/lang/cn.md) | [Russian](https://github.com/Symthoptic/falcon/blob/main/lang/ru.md)
 
 > [!CAUTION]
 > Falcon reaches end of life. We recommend to shift to any  other client area because falcon will not be updated any more you can shift to [Fixed-Palladium](https//github.com/Overnodeprojects/Fixed-Palladium) this is the base of falcon. If you found out any bugs so fix them by yourself!
@@ -95,5 +95,5 @@ server {
 
 
 # License
-(c) 2024 Lynix and contributors. All rights reserved. Licensed under the MIT License.
+(c) 2024 Symthoptic and contributors. All rights reserved. Licensed under the MIT License.
 
