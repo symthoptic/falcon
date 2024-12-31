@@ -1,5 +1,5 @@
 
-![GitHub commit](https://img.shields.io/github/last-commit/OpenSourceLynix/falcon) ![GitHub Release](https://img.shields.io/github/v/release/OpenSourceLynix/falcon)
+![GitHub commit](https://img.shields.io/github/last-commit/Symthoptic/falcon) ![GitHub Release](https://img.shields.io/github/v/release/Symthoptic/falcon)
 
 
 [Vietnamese](https://github.com/symthptic/falcon/blob/main/lang/vn.md) | [Chinese](https://github.com/Symthoptic/falcon/blob/main/lang/cn.md) | [Russian](https://github.com/Symthoptic/falcon/blob/main/lang/ru.md)
@@ -31,7 +31,7 @@ Admin (set, add, remove coins/scan eggs & locations)
 Panel Support (Pterodactyl)
 
 # Sponsors
-Ko-fi sponsors are not working so come on our [discord](https://www.lynix.tech/discord/join)
+Sponsors are not available
 
 # Installation
 
